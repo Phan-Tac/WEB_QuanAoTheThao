@@ -1,2 +1,4 @@
-package com.example.webquanao.controller;public class HomeController {
+package com.example.webquanao.controller;
+
+public class HomeController {
 }
